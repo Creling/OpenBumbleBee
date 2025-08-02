@@ -6,3 +6,6 @@ multiprocess>=0.70.12.2
 cachetools>=5.0.0
 jax[cpu]>=0.4.16, <=0.4.26 # FIXME
 termcolor>=2.0.0
+
+spu==0.9.2dev20240629
+flax==0.8.4

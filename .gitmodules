@@ -1,0 +1,3 @@
+[submodule "EasyLM"]
+	path = EasyLM
+	url = https://github.com/young-geng/EasyLM.git
